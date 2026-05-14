@@ -264,3 +264,5 @@ head(iris_web_readr)
 
 # 5. Escribir un bucle for que imprima los números del 1 al 100, pero solo si son divisibles por 3.
 
+
+print("Demo de push local a remoto desde RStudio")
